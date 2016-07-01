@@ -11,5 +11,7 @@ function toggle(){
   console.log(state ? 1 : 0);
   setInterval(toggle,500);
 }
+//added to master
+
 
 toggle();
